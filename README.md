@@ -100,7 +100,7 @@ When discounts go up, sales also increase — classic retail behavior. Useful fo
 
 ---
 
-## 🔗 Useful Links
+## 🔗 My Social & Projects Dashboard Links
 
 - **Medium Article:** https://medium.com/@greatadib82/analyzing-data-with-power-bi-tableau-for-visualization-and-finding-insights-that-matters-b5e93b0cc049  
 
@@ -121,5 +121,5 @@ When discounts go up, sales also increase — classic retail behavior. Useful fo
 ## 🙌 Credits
 
 Made by **Gazi Monirul Islam (aka Gazi Adib)**  
-Thanks to my instructor for guidance and to the Global Store Dataset for the learning opportunity.
+Thanks to my instructor Dr. Karim Mohammed Rezaul & Edulink for guidance and support and to the Global Store Dataset for the learning opportunity and thus enhancing my deep knowledge in Data Analytics.
 

@@ -53,15 +53,15 @@ Basically a perfect dataset for business analytics practice.
 ---
 
 ### ⭐ Full Tableau Dashboard  
-![Tableau Dashboard](./images/tableau_dashboard_full.png)
+![Tableau Dashboard](./Tableau_Project/images/ultimate_dashboard.png)
 
 **What it shows:**  
 A complete overview — sales, profit, regional performance, segment breakdown, and month trends all on one screen.
 
 ---
 
-### 📈 Monthly Profit Trend  
-![Profit Trend](./images/profit_trend.png)
+### 📈 Monthly Sales Trend  
+![Profit Trend](./Tableau_Project/images/month_wise_sales.png)
 
 **Insight:**  
 December crushed it with the highest profit. January sits at the bottom — not a great start to the year.
@@ -69,23 +69,21 @@ December crushed it with the highest profit. January sits at the bottom — not 
 ---
 
 ### 🌍 Region-wise Sales & Quantity  
-![Region Sales](./images/region_sales_qty.png)
+![Region Sales](./Tableau_Project/images/region_wise_qty_sales.png)
 
 **Insight:**  
 The Central region leads both in total sales and total quantity. Canada has the lowest numbers overall.
 
----
 
-### 📦 Orders, Sales & Quantity Over Time  
-![Line Charts](./images/time_series_lines.png)
+### 📦 Orders, Sales & Quantity Over Month 
+![Line Charts](./Tableau_Project/images//month_wise_sales_orders_qty_line_chart.png)
 
 **Insight:**  
 Sales and quantity follow a similar pattern throughout the year. Some months jump sharply due to seasonality.
 
----
 
 ### 💸 Discount vs Sales  
-![Discount Sales](./images/discount_vs_sales.png)
+![Discount Sales](./Tableau_Project//images//segment_wise_discount_sales.png)
 
 **Insight:**  
 When discounts go up, sales also increase — classic retail behavior. Useful for planning promotions.

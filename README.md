@@ -1,7 +1,19 @@
+# Who Am AI ?
+
+Hey, I’m **Gazi Monirul Islam (Adib)**. I graduated from **Daffodil International University** from the **Department 
+of CSE** in 2019. Currently I am working and building web apps for my client and thus enriching my portfolio 
+using Next.js, React, FastAPI, Django, Laravel. I love mixing AI/ML features into real-world projects things 
+like object detection, **Computer vision-based Disease Detection projects**, and **NLP based projects** like 
+sentiment analysis, Resume Parser, and **LLM based Chatbots with RAG using Langchain & Langgraph**. I 
+enjoy creating clean, scalable systems, whether it’s a LMS (learning platform) field or an e-commerce 
+field or any management-based system, or AI-powered apps. When I’m not coding, I’m probably playing 
+cricket, **building tutorials** for global audience on my personal **YouTube channel called GreatAdib** (11.4k+ 
+subs), or learning something new to level up my skills.
+
+
 # Data Analysis with Power BI & Tableau
 
 This repo contains all the visualizations, screenshots, and insights from my Medium article where I analyzed the **Global Store Dataset** using **Power BI** and **Tableau**.  
-If you’re curious about how data turns into real business insights, this is the full breakdown.
 
 ---
 
@@ -30,7 +42,10 @@ Contains order details like:
 - Profit  
 - Discount  
 - Region / State  
-- Category & Subcategory  
+- Category & Subcategory
+- Used Data modeling and connection for Orders and Locations Table
+- Added More columns like Month name
+- Added one More measure in power BI like Sum of Orders for more precise dashboard  
 
 Basically a perfect dataset for business analytics practice.
 
@@ -108,13 +123,15 @@ This stacked bar chart may look fancy but I gives an accurate measure of categor
 
 ---
 
-## 📝 Summary of What I Found
+## 📝 Summary of What I Found From this Data Analysis
 
 - December is the most profitable month  
 - More discount usually means more sales  
 - Central region performs the best  
 - California and New York contribute the most to total revenue  
-- Consumer segment brings in strong consistent profit across months  
+- Consumer segment brings in strong consistent profit across months 
+- Western and Eastern regions contributed the highest revenue, while some central states showed lower profitability
+- Technology and Office Supplies performed strongly, while certain sub-categories struggled with consistent profitability 
 
 ---
 
